@@ -1,6 +1,6 @@
 Hi there / 你好 😺
 
-I am a independent **fullstack developer**.
+I am an independent **fullstack developer**.
 
 - I can make: web APP, Shopify APP, WeChat Mini Program
 - I am fond of 💅: clean and resuable code interface, good looking things, and classical music
