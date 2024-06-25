@@ -1,6 +1,6 @@
 Hi there / 你好 😺
 
-I am a **fullstack developer** at [Le Wagon](https://www.lewagon.com) by weekdays ☀️, and a **piano community leader** by weekend 🛝.
+I am a independent **fullstack developer**.
 
 - I can make: web APP, Shopify APP, WeChat Mini Program
 - I am fond of 💅: clean and resuable code interface, good looking things, and classical music
